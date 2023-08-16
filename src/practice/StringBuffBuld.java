@@ -10,7 +10,6 @@ public class StringBuffBuld {
 		String string1 = "Tasdiq";
 		StringBuffer stringBuff = new StringBuffer("Tasdiq");
 		StringBuilder stringBuild = new StringBuilder("Tasdiq");
-	//	stringBuff.
 		
 	}
 
