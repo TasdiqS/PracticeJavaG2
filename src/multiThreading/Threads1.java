@@ -1,4 +1,4 @@
-package threadsPrac;
+package multiThreading;
 
 public class Threads1 {
 
