@@ -11,7 +11,6 @@ public class SetP {
 		// TODO Auto-generated method stub
 
 		PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
-		LinkedList<E>
 
 		// Adding elements to the PriorityQueue
 		priorityQueue.add(5);

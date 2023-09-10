@@ -15,7 +15,6 @@ public class ExampleSer {
 		e.printStackTrace();
 	}
 	
-	byte[] serializedArray = new ObjectMapper().writeValueAsBytes(p);
 	}
 	
 }
